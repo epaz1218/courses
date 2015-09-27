@@ -1,4 +1,4 @@
-# courses
+﻿# courses
 * Matthew Ell added 2015_05_26 6:30PM
 * Meghan Jordan added 9:46AM
 * Pooja Mahesh added 4.13PM
@@ -29,3 +29,4 @@
 * Li Tianyu 1:39pm May 29, 2015
 * Levinger Aliza May 29,2015 3:00pm
 * Pinto, João May 29th, 2015 1524
+* Paz,Enrique September 27th, 2015 4:12pm 
